@@ -1,2 +1,2 @@
 # Calculadora
- Calculadora simples para web
+ Calculadora para incrementar nossos projetos web.
